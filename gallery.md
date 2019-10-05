@@ -50,11 +50,11 @@ gallery:
   -url: /assets/images/11.jpg
     image_path: /assets/images/11.jpg
     alt: "placeholder image 11"
-    title: "Image 11 title caption"    
+    title: "Image 11 title caption"   
 ---      
 ---      
 ---      
----
+--- 
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
 

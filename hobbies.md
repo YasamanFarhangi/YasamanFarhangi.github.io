@@ -9,6 +9,7 @@ comments: false
 ---
 
 
-* [BJJ](http://www.bjjheros.com/)
+* [Watching Movies](https://www.youtube.com/)
+* [Reading Books](https://www.bookbub.com/ebook-deals/free-ebooks)
 
 
