@@ -11,4 +11,4 @@ comments: false
 |     |    |**Education**                                                               |
 |2018 |now| **BS**, Computer Engineering, Iran University Of Science And Technology, Tehran, Iran |
 |-----|----|---------------------------------------------------------------------------------|
-|2008 |2018| **school**, Mathematics, Karaj, Iran |
+|2006 |2018| **school**, Mathematics, Karaj, Iran |
