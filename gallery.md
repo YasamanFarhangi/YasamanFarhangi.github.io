@@ -47,7 +47,7 @@ gallery:
     image_path: /assets/images/10.jpg
     alt: "placeholder image 10"
     title: "Image 10 title caption"
-     - url: /assets/images/labexam.jpg
+  - url: /assets/images/labexam.jpg
     image_path: /assets/images/labexam.jpg
     alt: "placeholder image labexam"
     title: "Image labexam title caption"
