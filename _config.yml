@@ -116,7 +116,7 @@ author:
   google_scholar:
   github: YasamanFarhangi
   instagram: yasi_fa7901
-  calendly: https://calendly.com/yfarhangi
+  calendly: yfarhangi
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -138,7 +138,7 @@ author:
       # url: "https://instagram.com/"
     - label: "Calendly"
       icon: "fas fa-calendar-alt"
-      # url: "https://calendly.com/username"
+      # url: "https://calendly.com/yfarhangi"
 
 
 # Site Footer
