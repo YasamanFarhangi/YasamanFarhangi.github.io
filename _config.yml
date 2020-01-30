@@ -112,7 +112,7 @@ author:
   location         : "تهران"
   email            : yf7901@gmail.com
   twitter: 
-  linkedin: https://www.linkedin.com/in/yasaman-farhangi
+  linkedin: https://www.linkedin.com/in/yasaman-farhangi-960008196/
   google_scholar:
   github: YasamanFarhangi
   instagram: yasi_fa7901
@@ -137,7 +137,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "Calendly"
-      icon: "fas fa-calendar-alt"
+      icon: "fab fa-fw fa-calendar"
       # url: "https://calendly.com/yfarhangi"
 
 
@@ -163,7 +163,7 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
     - label: "Calendly"
-      icon: "fas fa-calendar-alt"
+      icon: "fab fa-fw fa-calendar"
       # url:
 
 
