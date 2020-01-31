@@ -7,6 +7,8 @@ title: Final_Exam
 
 - The first question that I solved was q6_change_student. Actually I didn't have any problem in understanding the question. I only had problem in remembering the syntax! After I searched for the correct syntax, problem solved.
  
+- For q8_create_student the whole code I wrote was correct. The only point I was missing was related to the malloc memory. After I added malloc memory, the test passed. At first I wasn't sure it works but it did and I wnted to know why? because adding it was just a possibilitiy. Then I read about the malloc memory and realized when you want to copy-on-return you should use the malloc part. Which was exactly what the question wanted.
+
 
 - In python, there were a lot of questions that I had problem in making the proper circumstances. Each question needed several particular conditions that after 3 hours it was really hard for me to think about the conditions and even after the exam I wasn't able to solve all the questions. The first question I solved in python was related to function_pointer. I've never seen a sample of this question in python, so I was really surprised. It was not hard actually but I needed some help in imaging how it was possible in python so I asked one of my friend about the correct algorithm and problem solved. Another thing I didn't know was getting a function as an input of another function. It was not complicated at all but a sample code was required.
 
